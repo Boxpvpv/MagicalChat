@@ -1,0 +1,6 @@
+name: MagicalChat
+version: '${project.version}'
+main: me.kes.magicalchat.MagicalChat
+api-version: 1.19
+authors: [ Kes ]
+description: A simple chat plugin for boxpvpv
